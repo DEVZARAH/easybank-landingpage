@@ -7,6 +7,15 @@ a {
   text-decoration: none;
   display: block;
 }
+@font-face {
+  font-family: publicsan;
+  src: url('../Public_Sans/PublicSans-VariableFont_wght.ttf');
+}
+body{
+  font-family: publicsan;
+}
+
+
 .container {
   width: 100%;
   margin: 0 auto;
@@ -84,6 +93,7 @@ ul {
   padding: 5px 20px;
   border-radius: 23px;
   background-color: hsla(136, 65%, 51%, 0.767);
+  border: 2px solid hsla(136, 65%, 51%, 0.767);
 }
 .two {
   padding: 100px 40px;
