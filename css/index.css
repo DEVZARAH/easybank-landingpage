@@ -55,10 +55,11 @@ ul {
 .one img {
   width: 120%;
 }
-.img {
+#img {
   background-image: url("../img/images/bg-intro-desktop.svg");
   background-repeat: no-repeat;
   background-size: 800px;
+  margin-bottom: 30px;
 }
 .text {
   margin-top: 150px;
@@ -83,6 +84,7 @@ ul {
 }
 .minicon2 img {
   width: 100%;
+  margin-top: 20px;
 }
 .sec4 {
   display: grid;
