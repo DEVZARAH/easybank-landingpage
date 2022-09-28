@@ -237,10 +237,13 @@ footer span {
 
     display: none;
   }
+  .abs_contain{
+     background-color: white;
+  }
   .hid{
     display: block;
       position: absolute;
-      background-color: white;
+   
       padding: 20px 100px;
       display: flex;
       flex-direction: column;
